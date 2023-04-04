@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ZS+bJFiilLTJrv7Z/FqSSC6giDwCaGMT3lhef8C7AU2ZrjwfNd93Dd38QJnKWXRQfmwGi4mrd6uc6wf4LN7yIw==",
+  "dgSpecHash": "LRK4ivs28dKZaL9Cksd0MH26N6PhbywoNWx3hoCaxiOtXBDqWATK9Go53RkFriAKDpmHJEvGMXZVV7f5OOC+6w==",
   "success": true,
-  "projectFilePath": "/home/aris/Documents/ddd-net/BuberDinner/BuberDinner.Infrastructure/BuberDinner.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\aris\\Documents\\.net latihan\\ddd-net6\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj",
   "expectedPackageFiles": [
-    "/home/aris/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+    "C:\\Users\\aris\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
   ],
   "logs": []
 }

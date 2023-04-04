@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6dApJF0c70t1Ka9t/X0uvw8WNnBh91w4Pbop4T1oSeF6lYmQJx4sRN1eRQMGXUaaXreWaZNtpaRiZi6186jZ0w==",
+  "dgSpecHash": "z5QNIFCgPNRTXvEfVZnlqVxOGP3AiiyJ6R+dBDAL8L/z4rSosO6Fk8jw4b61HzH135JKHUKghoLQpXTRlEvv1Q==",
   "success": true,
-  "projectFilePath": "/home/aris/Documents/ddd-net/BuberDinner/BuberDinner.Contracts/BuberDinner.Contracts.csproj",
+  "projectFilePath": "C:\\Users\\aris\\Documents\\.net latihan\\ddd-net6\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

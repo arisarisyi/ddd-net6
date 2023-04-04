@@ -13,3 +13,18 @@
 /home/aris/Documents/ddd-net/BuberDinner/BuberDinner.Application/bin/Debug/net6.0/BuberDinner.Domain.dll
 /home/aris/Documents/ddd-net/BuberDinner/BuberDinner.Application/bin/Debug/net6.0/BuberDinner.Domain.pdb
 /home/aris/Documents/ddd-net/BuberDinner/BuberDinner.Application/obj/Debug/net6.0/BuberDinner.Application.csproj.CopyComplete
+C:\Users\aris\Documents\.net latihan\ddd-net6\BuberDinner\BuberDinner.Application\bin\Debug\net6.0\BuberDinner.Application.deps.json
+C:\Users\aris\Documents\.net latihan\ddd-net6\BuberDinner\BuberDinner.Application\bin\Debug\net6.0\BuberDinner.Application.dll
+C:\Users\aris\Documents\.net latihan\ddd-net6\BuberDinner\BuberDinner.Application\bin\Debug\net6.0\BuberDinner.Application.pdb
+C:\Users\aris\Documents\.net latihan\ddd-net6\BuberDinner\BuberDinner.Application\bin\Debug\net6.0\BuberDinner.Domain.dll
+C:\Users\aris\Documents\.net latihan\ddd-net6\BuberDinner\BuberDinner.Application\bin\Debug\net6.0\BuberDinner.Domain.pdb
+C:\Users\aris\Documents\.net latihan\ddd-net6\BuberDinner\BuberDinner.Application\obj\Debug\net6.0\BuberDinner.Application.csproj.AssemblyReference.cache
+C:\Users\aris\Documents\.net latihan\ddd-net6\BuberDinner\BuberDinner.Application\obj\Debug\net6.0\BuberDinner.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aris\Documents\.net latihan\ddd-net6\BuberDinner\BuberDinner.Application\obj\Debug\net6.0\BuberDinner.Application.AssemblyInfoInputs.cache
+C:\Users\aris\Documents\.net latihan\ddd-net6\BuberDinner\BuberDinner.Application\obj\Debug\net6.0\BuberDinner.Application.AssemblyInfo.cs
+C:\Users\aris\Documents\.net latihan\ddd-net6\BuberDinner\BuberDinner.Application\obj\Debug\net6.0\BuberDinner.Application.csproj.CoreCompileInputs.cache
+C:\Users\aris\Documents\.net latihan\ddd-net6\BuberDinner\BuberDinner.Application\obj\Debug\net6.0\BuberDinner.Application.csproj.CopyComplete
+C:\Users\aris\Documents\.net latihan\ddd-net6\BuberDinner\BuberDinner.Application\obj\Debug\net6.0\BuberDinner.Application.dll
+C:\Users\aris\Documents\.net latihan\ddd-net6\BuberDinner\BuberDinner.Application\obj\Debug\net6.0\refint\BuberDinner.Application.dll
+C:\Users\aris\Documents\.net latihan\ddd-net6\BuberDinner\BuberDinner.Application\obj\Debug\net6.0\BuberDinner.Application.pdb
+C:\Users\aris\Documents\.net latihan\ddd-net6\BuberDinner\BuberDinner.Application\obj\Debug\net6.0\ref\BuberDinner.Application.dll

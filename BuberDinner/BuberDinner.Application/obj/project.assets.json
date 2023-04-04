@@ -5,10 +5,14 @@
       "Microsoft.Extensions.DependencyInjection.Abstractions/7.0.0": {
         "type": "package",
         "compile": {
-          "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
+          "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
+          "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "related": ".xml"
+          }
         },
         "build": {
           "buildTransitive/net6.0/_._": {}
@@ -69,32 +73,34 @@
     ]
   },
   "packageFolders": {
-    "/home/aris/.nuget/packages/": {}
+    "C:\\Users\\aris\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/aris/Documents/ddd-net/BuberDinner/BuberDinner.Application/BuberDinner.Application.csproj",
+      "projectUniqueName": "C:\\Users\\aris\\Documents\\.net latihan\\ddd-net6\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
       "projectName": "BuberDinner.Application",
-      "projectPath": "/home/aris/Documents/ddd-net/BuberDinner/BuberDinner.Application/BuberDinner.Application.csproj",
-      "packagesPath": "/home/aris/.nuget/packages/",
-      "outputPath": "/home/aris/Documents/ddd-net/BuberDinner/BuberDinner.Application/obj/",
+      "projectPath": "C:\\Users\\aris\\Documents\\.net latihan\\ddd-net6\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
+      "packagesPath": "C:\\Users\\aris\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\aris\\Documents\\.net latihan\\ddd-net6\\BuberDinner\\BuberDinner.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/aris/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\aris\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/home/aris/Documents/ddd-net/BuberDinner/BuberDinner.Domain/BuberDinner.Domain.csproj": {
-              "projectPath": "/home/aris/Documents/ddd-net/BuberDinner/BuberDinner.Domain/BuberDinner.Domain.csproj"
+            "C:\\Users\\aris\\Documents\\.net latihan\\ddd-net6\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj": {
+              "projectPath": "C:\\Users\\aris\\Documents\\.net latihan\\ddd-net6\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj"
             }
           }
         }
@@ -120,7 +126,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -129,7 +136,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.113/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

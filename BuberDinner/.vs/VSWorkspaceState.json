@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BuberDinner.Application",
+    "\\BuberDinner.Application\\Common",
+    "\\BuberDinner.Application\\Common\\Interfaces",
+    "\\BuberDinner.Application\\Common\\Interfaces\\Authentication",
+    "\\BuberDinner.Infrastructure"
+  ],
+  "SelectedNode": "\\BuberDinner.Infrastructure\\DependencyInjections.cs",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/home/aris/Documents/ddd-net/BuberDinner/BuberDinner.Contracts/BuberDinner.Contracts.csproj": {}
+    "C:\\Users\\aris\\Documents\\.net latihan\\ddd-net6\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj": {}
   },
   "projects": {
-    "/home/aris/Documents/ddd-net/BuberDinner/BuberDinner.Contracts/BuberDinner.Contracts.csproj": {
+    "C:\\Users\\aris\\Documents\\.net latihan\\ddd-net6\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/aris/Documents/ddd-net/BuberDinner/BuberDinner.Contracts/BuberDinner.Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\aris\\Documents\\.net latihan\\ddd-net6\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
         "projectName": "BuberDinner.Contracts",
-        "projectPath": "/home/aris/Documents/ddd-net/BuberDinner/BuberDinner.Contracts/BuberDinner.Contracts.csproj",
-        "packagesPath": "/home/aris/.nuget/packages/",
-        "outputPath": "/home/aris/Documents/ddd-net/BuberDinner/BuberDinner.Contracts/obj/",
+        "projectPath": "C:\\Users\\aris\\Documents\\.net latihan\\ddd-net6\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
+        "packagesPath": "C:\\Users\\aris\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aris\\Documents\\.net latihan\\ddd-net6\\BuberDinner\\BuberDinner.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/aris/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\aris\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -43,7 +45,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -52,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.113/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
